@@ -1,0 +1,18 @@
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\bin\Debug\t1.exe.config
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\bin\Debug\t1.exe
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\bin\Debug\t1.pdb
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\obj\Debug\t1.Form1.resources
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\obj\Debug\t1.Properties.Resources.resources
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\obj\Debug\t1.csproj.GenerateResource.Cache
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\obj\Debug\t1.exe
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\obj\Debug\t1.pdb
+c:\users\jeewantha bandara\documents\visual studio 2015\Projects\t1\t1\obj\Debug\t1.csprojResolveAssemblyReference.cache
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\bin\Debug\t1.exe.config
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\obj\Debug\t1.exe
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\obj\Debug\t1.pdb
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\bin\Debug\t1.exe
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\bin\Debug\t1.pdb
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\obj\Debug\t1.csprojResolveAssemblyReference.cache
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\obj\Debug\t1.Form1.resources
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\obj\Debug\t1.Properties.Resources.resources
+C:\Users\Jeewantha Bandara\Documents\Visual Studio 2015\Projects\Presonal info\t1\obj\Debug\t1.csproj.GenerateResource.Cache
